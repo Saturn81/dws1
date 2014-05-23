@@ -5,16 +5,12 @@ background-image:url("../images/presence.png");
 background-repeat:repeat;
 background-position:top right;
 background-attachment: fixed;
-font-size:1em;
 }
-
-
-
 
 
 div#total{
 background:#000000;
-margin:0,.0156%,0,.0156% 0;
+margin:0%,1.56%,0%,1.56%;
 color:#FFFFFF;
 font-family:georgia,times,sans-serif;
 line-height:1.2;
@@ -29,34 +25,30 @@ text-align:center;
 
 h1,h2,h3,h4{
 font-family: 'Shadows Into Light', open sans condensed, times, sans-serif;
-color: orange;
+color: #FFA500;
 font-weight:normal;
 text-transform:capitalize;
 letter-spacing:0.15cm;
 font-size: 200%;
 text-shadow: 5px -5px 6px #969696;
-text decoration:none;
+text-decoration:none;
 }
-
-
-
-
 
 
 div#dragonRoll{
 margin: 10px auto; 
-background: linear-gradient(orange, red);
+background: linear-gradient(#b1521b, #ad1f1f);
 width:56%;
-border-color:gray;
+border-color:#696969;
 border-style:solid;
-border-width:7px;
-padding:.03604%;
+border-width:.007%;
+padding:2.604%;
 clear:both;
 }
 
 
 h1#food{
-color:green;
+color:#228B22;
 text-align:center;
 }
 
@@ -66,17 +58,10 @@ text-align:center;
 }
 
 
-p#toplinks{
-
-}
-
-
-
-
 
 p#links{
 text-align:center;				
-a:link {color:#FF0000;} 			
+a:link {color:#B22222;} 			
 a:hover {color:#FF00FF;}
 }
 
@@ -85,29 +70,33 @@ a:hover {color:#FF00FF;}
 
 
 div#introPics{
-
+text-align:center;
 }
 
 
 img#introPic1{
 float:left;
 
-width:31.25%;
-margin:.0364%;
+width:29%;
+margin:3.64%;
+clear:right
 }
 
 img#introPic2{
 
 float:left;
-width:31.25%;
-margin:.0364%;
+width:20%;
+margin:3.64%;
+
+
 }
 
 img#introPic3{
 
 float:left;
-width:31.25%;
-margin:.0364%;
+width:29%;
+margin:3.64%;
+clear:right;
 }
 
 
@@ -129,7 +118,7 @@ clear:both;
 div#gallery{
 float:left;
 width:30%;
-margin:1.04%,0,.0104%,1.04%;
+margin:1.04%,0%,1.04%,1.04%;
 clear:right;
 }
 
@@ -140,8 +129,9 @@ text-align:center;
 h1#food{
 background-image:url("../images/1400744263_dragon-chun.png");
 background-repeat:no-repeat;
-height:13.25%;
-padding:15%;
+clear:both;
+height:127px;
+padding:15px;
 }
 
 
@@ -157,7 +147,7 @@ ol {list-style-type: circle; }
 
 
 ol,ul#foodList{ 
-color:black;
+color:#000000;
 font-family:verdana,times,sans-serif;
 line-height:120%;
 }
