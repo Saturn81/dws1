@@ -1,0 +1,187 @@
+
+
+body{
+background-image:url("../images/presence.png");
+background-repeat:repeat;
+background-position:top right;
+background-attachment: fixed;
+
+}
+
+
+header{
+text-align:center;
+margin: 10px auto; 
+}
+
+
+div#total{
+background:#000000;
+margin:0%,1.56%,0%,1.56%;
+color:#FFFFFF;
+font-family:georgia,times,sans-serif;
+line-height:1.2;
+text-decoration: none;
+}
+
+h3#topLink{
+text-transform:uppercase;
+text-decoration:none;
+text-align:center;
+}
+
+h1,h2,h3,h4{
+font-family: 'Shadows Into Light', open sans condensed, times, sans-serif;
+color: #FFA500;
+font-weight:normal;
+text-transform:capitalize;
+letter-spacing:0.15cm;
+font-size: 200%;
+text-shadow: 5px -5px 6px #969696;
+text-decoration:none;
+}
+
+
+div#dragonRoll{
+margin: 10px auto; 
+background: linear-gradient(#b1521b, #ad1f1f);
+width:56%;
+border-color:#696969;
+border-style:solid;
+border-width:.007%;
+padding:2.604%;
+clear:both;
+}
+
+
+h1#food{
+color:#228B22;
+text-align:center;
+}
+
+
+
+
+
+
+p#links{
+text-align:center;				
+a:link {color:#B22222;} 			
+a:hover {color:#FF00FF;}
+}
+
+
+
+
+
+header{
+text-align:center;
+}
+
+
+img#introPic1{
+float:left;
+
+width:29%;
+margin:3.64%;
+clear:right
+}
+
+img#introPic2{
+
+float:left;
+width:20%;
+margin:3.64%;
+
+
+}
+
+img#introPic3{
+
+float:left;
+width:29%;
+margin:3.64%;
+clear:right;
+}
+
+
+h3#quick{
+clear:left;
+text-align:center;
+}
+
+
+
+div#historySushi{
+float:left;
+width:50%;
+margin:1.04%;
+clear:both;
+
+}
+
+div#gallery{
+float:left;
+width:30%;
+margin:1.04%,0%,1.04%,1.04%;
+clear:right;
+}
+
+h2#center{
+text-align:center;
+}
+
+h1#food{
+background-image:url("../images/1400744263_dragon-chun.png");
+background-repeat:no-repeat;
+clear:both;
+height:127px;
+padding:15px;
+}
+
+
+blockquote#billM{
+font-weight:bold;
+border-style:double;
+}
+
+
+ul { list-style-type: square; }
+ol {list-style-type: circle; }
+
+
+
+ol,ul#foodList{ 
+color:#000000;
+font-family:verdana,times,sans-serif;
+line-height:120%;
+}
+
+table{
+font-family:georgia,times,sans-serif;
+color: #FF0099;
+width: 85%;
+border: 3px solid #0033CC;
+}
+			
+			
+th, td {
+padding: 8px 12px 12px 12px;
+}
+
+th {
+	letter-spacing: 0.1em;
+	border-bottom: 3px solid #0033CC;
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 80%;
+	}
+			
+
+td:hover {
+	background-color: #FFFF66;
+	}
+
+
+
+
